@@ -9,6 +9,7 @@
 // put the lowest in its array 
 // put the highest in its array
 // output the highest then output the lowest
+'''java
 public static void main(String[]args){
 int [] nums = new int {5,7,3,2};
     int Max = nums[0];
